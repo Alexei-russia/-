@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\VuGen\Scripts\UC05_DeleteOneFlight
+-IC:\Micro Focus\LoadRunner\include
+-ec:\vugen\scripts\uc05_deleteoneflight\\logfile.log
+c:\vugen\scripts\uc05_deleteoneflight\\combined_UC05_DeleteOneFlight.c
+c:\vugen\scripts\uc05_deleteoneflight\\pre_cci.c

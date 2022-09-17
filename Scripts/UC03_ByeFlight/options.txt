@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\VuGen\Scripts\UC03_ByeFlight
+-IC:\Micro Focus\LoadRunner\include
+-ec:\vugen\scripts\uc03_byeflight\\logfile.log
+c:\vugen\scripts\uc03_byeflight\\combined_UC03_ByeFlight.c
+c:\vugen\scripts\uc03_byeflight\\pre_cci.c

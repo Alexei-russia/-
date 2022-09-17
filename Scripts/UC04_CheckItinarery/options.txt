@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\VuGen\Scripts\UC04_CheckItinarery
+-IC:\Micro Focus\LoadRunner\include
+-ec:\vugen\scripts\uc04_checkitinarery\\logfile.log
+c:\vugen\scripts\uc04_checkitinarery\\combined_UC04_CheckItinarery.c
+c:\vugen\scripts\uc04_checkitinarery\\pre_cci.c
